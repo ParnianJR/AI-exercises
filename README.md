@@ -1,4 +1,4 @@
-# AI-exercises
+# Artificial Intelligence Course
 This repository contains my assignments for the **Artificial Intelligence & Workshop** course, including:
 - Solving 8‑puzzle problem using A* algorithm.
 - Implementation of Genetic and SA algorithms.
