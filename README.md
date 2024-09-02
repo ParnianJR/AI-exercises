@@ -1,5 +1,5 @@
 # Artificial Intelligence Course
-This repository contains my assignments for the **Artificial Intelligence & Workshop** course, including:
+This repository contains my assignments for the **Artificial Intelligence & Workshop** course(B.Sc), including:
 - Solving 8‑puzzle problem using A* algorithm.
 - Implementation of Genetic and SA algorithms.
 - Implementation of tic‑tac‑toe game using minimax algorithm.
